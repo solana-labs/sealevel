@@ -1,0 +1,9 @@
+[package]
+name = "sealevel"
+version = "0.0.0"
+description = "Sealevel by Solana"
+authors = ["Sealevel Maintainers <maintainers@solana.com>"]
+repository = "https://github.com/solana-labs/sealevel"
+homepage = "https://solana.com/"
+license = "Apache-2.0"
+edition = "2018"

@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "sealevel",
+    "sealevel-program",
+    "sealevel-runtime",
+]
